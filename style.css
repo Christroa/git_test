@@ -1,0 +1,14 @@
+.parentDiv {
+    position: relative;
+    background: li aquamarine;
+    height: 100vh;
+    width: 100vw;
+}
+
+.child {
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    background-color: red;
+    bottom: 0;
+}
